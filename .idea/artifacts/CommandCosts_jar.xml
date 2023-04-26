@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CommandCosts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandCosts_jar</output-path>
+    <root id="archive" name="CommandCosts.jar">
+      <element id="module-output" name="CommandCosts" />
+    </root>
+  </artifact>
+</component>
